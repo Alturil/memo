@@ -37,3 +37,14 @@ h1 {
 	border: 1px solid yellow;
 	height: 75vh;	
 }
+
+@media screen and (orientation: portrait) {
+    #cards {
+        height: 90vw;
+    }
+}
+/*@media screen and (min-width: 480px) {
+    body {
+        background-color: lightgreen;
+    }
+}*/
