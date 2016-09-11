@@ -1,0 +1,14 @@
+.card {
+	border-radius: 5%;
+	background: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;	
+	margin: 0.5em;
+	width: calc(100% / 6 - 1em);
+	height: calc(100% / 4 - 1em);
+}
+
+.card p {
+	font-size: 30%;
+}
